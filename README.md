@@ -1,24 +1,25 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
-</div>
-
 ###
 
 <h1 align="left">Hello there! 👋</h1>
 
 ###
 
-<p align="left">I'm Warllen, and I hold a degree in Systems Analysis and Development. <br><br>I'm currently pursuing a bachelor’s degree in Software Engineering and seeking my first opportunity in the technology field.</p>
+<p align="left">My name is Warllen Barreiros and I'm a Fullstack Developer</p>
 
 ###
 
-<div align="center">
-  <img height="100" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
-<h2 align="right">🛠 Language and tools</h2>
+<p align="left">I hold a degree in Systems Analysis and Development. I'm currently pursuing a bachelor’s degree in Software Engineering and seeking my first opportunity in the technology field</p>
+<p align="left"> Open to global opportunities where I can contribute and grow. </p>
+
+###
+
+###
+
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
@@ -54,6 +55,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
 </div>
 
+<div align="center">
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UarliBS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
 ###
 
 <h2 align="left">📚 Language and tools to learn</h2>
@@ -78,23 +84,3 @@
 
 ###
 
-<h2 align="left">🔥   My Stats :</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UarliBS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=UarliBS&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/UarliBS/UarliBS/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
-</div>
-
-###
