@@ -57,6 +57,71 @@
 
 ###
 
+<h2 align="left">🚀 Featured Project: BuildingUs</h2>
+
+<p align="left">
+BuildingUs is a platform designed to help couples and partners manage goals, dreams, tasks, achievements, and progress together in a visual and motivating way.
+</p>
+
+### Technologies Used
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="Prisma" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="40" alt="RabbitMQ" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Google Maps API" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="40" alt="Cloudflare" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="AWS S3" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+</div>
+
+<br>
+
+### ✨ Main Features
+
+- 🎯 Shared goals and dreams tracking
+- ✅ Collaborative task management
+- 🏆 Achievement and badge system
+- 📈 Progress visualization
+- 🔐 Authentication with JWT/Auth.js
+- 📧 Transactional emails with Resend
+- 🗺️ Google Maps integration
+- ☁️ Cloud storage for profile images
+- 📱 Responsive design
+- 🚀 Production deployment with Cloudflare
+
+###
+
 <h2 align="left">📚 Language and tools to learn</h2>
 
 ###
